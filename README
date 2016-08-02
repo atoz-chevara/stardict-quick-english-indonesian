@@ -1,0 +1,8 @@
+# stardict-quick-english-indonesian
+Stardict Quick package for English-Indonesian dictionary
+
+How to update this package:
+
+* Download from http://download.huzheng.org/Quick/
+* Update the version number according to the dictionary version
+* Make sure the stardict structure is correcly in place inside the tarball
